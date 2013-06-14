@@ -1,5 +1,5 @@
 {
-  "name": "jquery-smartresize",
+  "name": "jquery-smartscroll",
   "version": "1.0.0",
   "dependencies": {
     "jquery": "*"
