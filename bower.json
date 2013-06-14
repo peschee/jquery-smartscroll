@@ -1,0 +1,12 @@
+{
+  "name": "jquery-smartresize",
+  "version": "1.0.0",
+  "main": "jquery.smartscroll.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
